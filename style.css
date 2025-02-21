@@ -626,6 +626,7 @@ nav .nav-links li:last-child a.btn {
 @media (max-width: 480px) {
     .container {
         width: 85%;
+        padding: 50px 0;
     }
 
     .hero h1 {
